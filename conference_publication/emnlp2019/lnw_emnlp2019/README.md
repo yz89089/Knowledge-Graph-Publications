@@ -10,7 +10,7 @@
 
 - **pdf**: [pdf](https://arxiv.org/pdf/1903.10245v4)
 
-- **code**: [code](https://github.com/PaddlePaddle/models/tree/develop/PaddleNLP/Research/EMNLP2019-AKGCM)  按照论文中给的网址写的，但是该网址对应404
+- **code**: [code](https://github.com/PaddlePaddle/Research/tree/master/NLP/EMNLP2019-AKGCM)  网址转移了
 
 - **dataset**: EMNLP dialog dataset ,ICLR dialog dataset
 
